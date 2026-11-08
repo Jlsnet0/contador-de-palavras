@@ -1,0 +1,12 @@
+# Arquivos compilados
+bin/
+*.class
+
+# Arquivos do VS Code e da extensão Java
+.vscode/
+.classpath
+.project
+.settings/
+
+# Se usar Maven (mais pra frente, no Spring Boot)
+target/
